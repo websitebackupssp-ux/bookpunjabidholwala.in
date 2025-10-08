@@ -1,0 +1,11 @@
+.newsletter-layout1 {
+  position: relative;
+  z-index: 1;
+
+  .overlay {
+    height: 50%;
+    background-color: var(--sec-color);
+    bottom: 0;
+    top: auto;
+  }
+}

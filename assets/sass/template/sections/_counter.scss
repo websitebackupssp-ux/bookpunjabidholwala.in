@@ -1,0 +1,147 @@
+.counter-media {
+  display: flex;
+  align-items: center;
+
+  &__icon {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    margin: 0 20px 0 0;
+    background-color: var(--white-color);
+    border-radius: 10px;
+  }
+
+  &__number {
+    line-height: 1;
+    margin: -0.04em 0 7px 0;
+    display: block;
+    font-size: 40px;
+    color: var(--white-color);
+    font-weight: 700;
+  }
+
+  &__title {
+    font-family: var(--title-font);
+    font-weight: 700;
+    margin: 0;
+    line-height: 1;
+    text-transform: capitalize;
+    color: var(--white-color);
+    font-size: 20px;
+  }
+}
+
+.counter-area1 {
+  position: relative;
+  &::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 50%;
+    background-color: var(--smoke-color);
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+}
+
+.counter-wrap1,
+.counter-wrap2 {
+  background-color: var(--theme-color);
+  border-radius: 20px;
+  padding: 80px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  @include respond-below(lg) {
+    padding: 40px;
+  }
+  @include respond-below(sm) {
+    padding: 40px 15px;
+  }
+  .overlay {
+    background-color: var(--title-color);
+    opacity: 0.1;
+    z-index: -1;
+    border-radius: 20px;
+  }
+  .shape-1,
+  .shape-2 {
+    position: absolute;
+    top: 0;
+    z-index: -2;
+    mix-blend-mode: soft-light;
+    opacity: 0.6;
+  }
+  .shape-1 {
+    left: 0;
+  }
+  .shape-2 {
+    left: auto;
+    right: 0;
+  }
+}
+.counter-wrap2 {
+  border-radius: 0;
+}
+
+@include lg {
+  .counter-media {
+    display: block;
+    text-align: center;
+
+    &__icon {
+      margin: 0 0 20px 0;
+    }
+  }
+
+  .counter-style2 {
+    .media-label {
+      font-size: 46px;
+    }
+
+    .media-icon {
+      font-size: 30px;
+    }
+
+    .media-link {
+      font-size: 16px;
+    }
+  }
+}
+
+@include md {
+  .counter-style2 {
+    display: block;
+    text-align: center;
+
+    .media-icon {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+  }
+}
+
+@include sm {
+  .counter-media {
+    &__icon {
+      width: 70px;
+      height: 70px;
+      line-height: 70px;
+
+      img {
+        max-width: 40px;
+      }
+    }
+
+    &__title {
+      font-size: 12px;
+    }
+
+    &__number {
+      font-size: 30px;
+    }
+  }
+}

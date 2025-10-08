@@ -1,0 +1,261 @@
+.team-style1 {
+  background-color: var(--white-color);
+  padding: 40px 30px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0px 3px 18px rgba(0, 0, 0, 0.03);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjQ3MCIgdmlld0JveD0iMCAwIDQyMCA0NzAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDBDMjAuNzg0MSAxMzAuNjMzIDI4My44NzEgMjkwLjcyIDQyMCAyNjBWNDUwQzQyMCA0NjEuMDQ2IDQxMS4wNDYgNDcwIDQwMCA0NzBIMjBDOC45NTQzIDQ3MCAwIDQ2MS4wNDYgMCA0NTBWMFoiIGZpbGw9IiNGNkY2RjYiLz4KPC9zdmc+Cg==");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  @include smooth-transition;
+
+  .team-img {
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 10px solid var(--white-color);
+    box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.07);
+    margin-bottom: 30px;
+  }
+  .team-name {
+    margin-bottom: 4px;
+    font-size: 24px;
+  }
+  .team-content {
+    padding-bottom: 23px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @include smooth-transition;
+  }
+  .team-social {
+    ul {
+      padding-left: 0;
+      margin-bottom: 0;
+      list-style: none;
+    }
+    & > ul {
+      & > li {
+        position: relative;
+        & > a {
+          width: 50px;
+          height: 50px;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          background-color: var(--theme-color);
+          border-radius: 10px;
+          color: var(--white-color);
+        }
+        & > ul {
+          position: absolute;
+          bottom: 100%;
+          right: 0;
+          left: 0;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 20px;
+          background-color: var(--theme-color);
+          border-radius: 10px;
+          margin-bottom: 10px;
+          color: var(--title-color);
+          padding: 20px 0;
+          transform: scaleY(0);
+          transform-origin: bottom;
+          visibility: hidden;
+          opacity: 0;
+          @include smooth-transition;
+          & > li {
+            line-height: 1;
+            display: inline-flex;
+            & > a {
+              color: var(--white-color);
+              transform: translateY(30px);
+              opacity: 0;
+              visibility: hidden;
+              &:hover {
+                color: var(--sec-color);
+              }
+            }
+            &:nth-child(1) {
+              a {
+                transition-delay: 0.09s;
+              }
+            }
+            &:nth-child(2) {
+              a {
+                transition-delay: 0.1s;
+              }
+            }
+            &:nth-child(3) {
+              a {
+                transition-delay: 0.2s;
+              }
+            }
+            &:nth-child(4) {
+              a {
+                transition-delay: 0.3s;
+              }
+            }
+          }
+        }
+        &:hover {
+          & > ul {
+            transform: scaleY(1);
+            opacity: 1;
+            transform-origin: bottom;
+            visibility: visible;
+            @include smooth-transition;
+            & > li {
+              transform: translateY(0px);
+              & > a {
+                transform: translateY(0px);
+                opacity: 1;
+                visibility: visible;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .team-bottom {
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    flex-wrap: wrap;
+    gap: 10px;
+    li {
+      a {
+        display: inline-flex;
+        align-items: center;
+        color: var(--body-color);
+        gap: 10px;
+        &:hover {
+          color: var(--theme-color);
+        }
+        span {
+          min-width: 30px;
+          height: 30px;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          background-color: var(--theme-color);
+          color: var(--white-color);
+          border-radius: 50%;
+          font-size: 14px;
+        }
+      }
+    }
+  }
+  &:hover {
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+    background-color: var(--smoke-color);
+    .team-content {
+      border-bottom: 1px solid var(--theme-color);
+    }
+  }
+}
+
+.team-style2 {
+  position: relative;
+  background-color: var(--smoke-color);
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 30px;
+  .team-img {
+    img {
+      width: 100%;
+    }
+  }
+  .team-social2 {
+    position: absolute;
+    background-color: var(--theme-color);
+    border-radius: 10px;
+    top: -69px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    visibility: hidden;
+    @include smooth-transition;
+    ul {
+      margin-bottom: 0;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 11px 30px;
+      li {
+        a {
+          color: var(--white-color);
+          font-size: 14px;
+          &:hover {
+            color: var(--title-color);
+          }
+        }
+      }
+    }
+  }
+  .team-content {
+    text-align: center;
+    padding: 23px 15px;
+    position: relative;
+  }
+  .team-name {
+    margin-bottom: 0;
+    font-size: 20px;
+    a {
+      color: var(--title-color);
+    }
+  }
+  .team-degi {
+    color: var(--theme-color);
+    font-size: 14px;
+  }
+  &:hover {
+    .team-social2 {
+      opacity: 1;
+      visibility: visible;
+      @include smooth-transition;
+    }
+  }
+}
+
+.slide-btns {
+  margin-bottom: calc(var(--section-title-space) - 40px);
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  .vs-btn {
+    width: 80px;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid var(--theme-color);
+    color: var(--theme-color);
+    &::before,
+    &::after {
+      background-color: var(--theme-color);
+    }
+    i {
+      margin-left: 0;
+    }
+    &:hover {
+      color: var(--white-color);
+    }
+  }
+}

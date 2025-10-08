@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /bookpunjabidholwala-backup-6-oct/
+    Options -MultiViews
+
+    # 1. Serve index.php at the site root
+    RewriteRule ^$ index.php [L]
+
+    # 2. Don’t rewrite requests for existing files or directories
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # 3. Map clean URLs (e.g., /about or /folder/page) to their .php files
+    RewriteRule ^(.+?)/?$ $1.php [L,QSA]
+</IfModule>
+
+# OPTIONAL: Hide .htaccess from browser
+<Files ".htaccess">
+    Require all denied
+</Files>

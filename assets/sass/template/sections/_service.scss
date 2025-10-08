@@ -1,0 +1,211 @@
+.service {
+  &-layout2 {
+    padding: 218px 0 120px;
+  }
+  &-style1 {
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+    .overlay {
+      background-color: var(--title-color);
+      opacity: 0;
+      visibility: hidden;
+      @include smooth-transition;
+      transform: scale(1.5);
+    }
+    .service {
+      &-content {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: var(--white-color);
+        margin: 30px;
+        text-align: center;
+        padding: 21px 15px;
+        border-radius: 10px;
+        @include smooth-transition;
+        @include respond-below(xl) {
+          margin: 15px;
+        }
+      }
+      &-name {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 5px;
+        @include smooth-transition;
+        a {
+          color: var(--title-color);
+          @include smooth-transition;
+        }
+      }
+      &-price {
+        display: block;
+        @include smooth-transition;
+        span {
+          font-weight: 700;
+        }
+      }
+      &-img {
+        img {
+          @include respond-below(md) {
+            width: 100%;
+          }
+        }
+      }
+      &-plus {
+        border-radius: 50%;
+        background-color: var(--theme-color);
+        color: var(--white-color);
+        position: absolute;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 60px;
+        min-height: 60px;
+        left: 50%;
+        transform: translateX(-50%) scale(0);
+        top: 96px;
+        opacity: 0;
+        visibility: hidden;
+        @include smooth-transition;
+        i {
+          @include smooth-transition;
+          transform: rotate(360deg);
+        }
+        &:hover {
+          background-color: var(--sec-color);
+          color: var(--white-color);
+          i {
+            @include smooth-transition;
+            transform: rotate(0deg);
+          }
+        }
+      }
+    }
+    &:hover {
+      .overlay {
+        opacity: 0.4;
+        visibility: visible;
+        transform: scale(1);
+        @include smooth-transition;
+      }
+      .service {
+        &-content {
+          background-color: var(--theme-color);
+        }
+        &-name a,
+        &-price {
+          color: var(--white-color);
+          @include smooth-transition;
+        }
+        &-plus {
+          @include smooth-transition;
+          opacity: 1;
+          visibility: visible;
+          transform: translateX(-50%) scale(1);
+          i {
+            @include smooth-transition;
+            transform: rotate(0deg);
+          }
+        }
+      }
+    }
+  }
+  &-style2 {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    background: var(--white-color);
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.07);
+    border-radius: 0px;
+    overflow: hidden;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-position: center center;
+    @include smooth-transition;
+    padding: 0px 0 30px;
+    .overlay {
+      background-color: var(--white-color);
+      z-index: -1;
+      @include smooth-transition;
+      opacity: 1;
+      visibility: visible;
+    }
+    .service-img {
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+      overflow: hidden;
+      border-radius: 50%;
+      margin: 30px auto;
+      @include smooth-transition;
+      opacity: 1;
+      visibility: visible;
+    }
+    .vs-btn {
+      display: inline-flex;
+      align-items: center;
+      padding: 12px 25px;
+    }
+    .service-name {
+      margin-bottom: 0;
+      a {
+        color: var(--title-color);
+        @include smooth-transition;
+      }
+    }
+    .service-price {
+      font-size: 14px;
+      @include smooth-transition;
+      span {
+        font-weight: 700;
+      }
+    }
+    .service-content {
+      margin-bottom: 20px;
+    }
+    &:hover {
+      box-shadow: none;
+      .overlay {
+        background-color: var(--black-color);
+        opacity: 0.6;
+      }
+      .service-img {
+        transform: scale(0);
+        opacity: 0;
+        visibility: hidden;
+      }
+      .service-name {
+        a {
+          color: var(--white-color);
+        }
+      }
+      .service-price {
+        color: var(--white-color);
+      }
+    }
+  }
+}
+.list-style3 {
+  margin-bottom: 30px;
+  max-width: 80%;
+  @include respond-below(lg) {
+    max-width: 100%;
+  }
+  ul {
+    display: block;
+    columns: 2;
+    padding-top: 0;
+    @include respond-below(md) {
+      columns: 1;
+    }
+  }
+}
+
+.service-details-img {
+  border-radius: 20px;
+}
+.service-details-img2 {
+  border-radius: 30px;
+}

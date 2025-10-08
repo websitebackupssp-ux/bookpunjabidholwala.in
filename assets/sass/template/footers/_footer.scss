@@ -1,0 +1,126 @@
+.widget-area {
+  padding-top: 100px;
+  padding-bottom: 70px;
+  @include respond-below(md) {
+    padding: 80px 0 40px 0;
+  }
+}
+
+.copyright-wrap {
+  text-align: center;
+  padding: 29px 0;
+  background-color: #0b2048;
+}
+
+.copyright-text {
+  margin: 0;
+  color: var(--white-color);
+  a {
+    position: relative;
+    color: var(--white-color);
+    &::after {
+      position: absolute;
+      content: "";
+      width: 0%;
+      height: 1px;
+      background-color: var(--white-color);
+      bottom: 0px;
+      right: 0;
+      transition: all 0.3s ease-in-out;
+    }
+    &:hover {
+      color: var(--white-color);
+      &::after {
+        width: 100%;
+        left: 0;
+      }
+    }
+  }
+}
+
+.footer-layout1,
+.footer-layout2 {
+  background-color: var(--black-color);
+  .copyright-wrap {
+    text-align: center;
+    padding: 33px 0;
+    background-color: transparent;
+  }
+  .footer-menu {
+    ul {
+      margin-bottom: 0;
+      padding-left: 0;
+    }
+    .menu-item {
+      display: inline-block;
+      position: relative;
+      padding-left: 15px;
+      margin-left: 15px;
+      &::before {
+        position: absolute;
+        content: "";
+        width: 1px;
+        height: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+        background-color: var(--white-color);
+      }
+      &:first-child {
+        padding-left: 0;
+        margin-left: 0;
+        &::before {
+          display: none;
+        }
+      }
+      &:last-child {
+        margin-right: 0;
+      }
+      a {
+        color: var(--white-color);
+        line-height: 1;
+        position: relative;
+        &::after {
+          position: absolute;
+          content: "";
+          width: 0%;
+          height: 1px;
+          background-color: var(--white-color);
+          bottom: -2px;
+          right: 0;
+          transition: all 0.3s ease-in-out;
+        }
+        &:hover {
+          color: var(--white-color);
+          &::after {
+            width: 100%;
+            left: 0;
+          }
+        }
+      }
+    }
+  }
+}
+
+@include lg {
+  .footer-layout2,
+  .footer-layout1 {
+    .footer-top {
+      padding: 50px 0;
+
+      .row {
+        --bs-gutter-y: 40px;
+      }
+    }
+  }
+
+  .footer-layout5 .widget_title {
+    margin-bottom: 30px;
+  }
+
+  .footer-layout4 {
+    .shape1 {
+      max-width: 230px;
+    }
+  }
+}
