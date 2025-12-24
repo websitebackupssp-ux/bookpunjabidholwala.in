@@ -5,21 +5,20 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in Anand Niketan</title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
-    <meta name="keywords" content="Book punjabi Dhol wala" />
+    <meta name="description" content="Book the best Punjabi dhol players in Anand Niketan for weddings, parties, and events. Energetic beats And vibrant performances.">
+    <meta name="keywords" content="punjabi dhol player, punjabi dhol players near me, punjabi dhol wala near me" />
     <meta name="robots" content="INDEX,FOLLOW">
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-    <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
-
+    <meta property="og:title" content="Dhol Player Services in Anand Niketan" />
+    <meta property="og:description" content="Book the best Punjabi dhol players in Anand Niketan for weddings, parties, and events. Energetic beats And vibrant performances." />
     <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-    <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-    <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+    <meta property="og:url" content="https://bookpunjabidholwala.in/location/anand-niketan" />
+    <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
 
-    <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/anand-niketan" />
+    <link rel="canonical" href="https://bookpunjabidholwala.in/location/anand-niketan" />
 
 
     <!-- Mobile Specific Metas -->
@@ -28,14 +27,14 @@
     <!--==============================
     Breadcumb
     ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
         <div class="overlay"></div>
         <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
         <div class="container z-index-common">
             <div class="breadcumb-content">
                 <div class="breadcumb-title">
-                    <h1 style="color: #f1f1f1;"> Dhol Player Services in Anand Niketan</h1>
-                    <p style="color: #f1f1f1;">Book Punjabi Dhol Wala offers vibrant traditional Dhol performances in Anand-Niketan, Delhi, making your weddings, festivals, and events unforgettable.</p>
+                    <h1 style="color: #f1f1f1;">Dhol Player Services in Anand Niketan</h1>
+                    <p style="color: #f1f1f1;">Book Punjabi Dhol Wala offers high-energy dhol performances in Anand Niketan, Delhi, making your weddings, festivals, and events unforgettable with vibrant beats.</p>
                 </div>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
@@ -54,17 +53,17 @@
             <div class="row gx-40 align-items-center">
                 <div class="col-lg-6">
                     <div class="img-box2 text-center">
-                        <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about Anand-Niketan">
+                        <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about Anand-Niketan">
                     </div>
                 </div>
-                <div class="col-lg-6 mb-30 mt-20">
-                    <h2 class="sec-title">Best Dhol Wale in Anand Niketan</h2>
-                    <p>Book Punjabi Dhol Wala offers vibrant and energetic traditional Dhol performances in Anand Niketan, Delhi, bringing the soulful beats and cultural richness of Punjab right to your doorstep. Whether it’s a wedding, festival, or corporate event, our talented dhol players ensure an electric atmosphere filled with joy and celebration that leaves your guests cheering for more.</p>
+                <div class="col-lg-6 mb-30 mt-15">
+                    <h2 class="sec-title h3">Punjabi Dhol Wale in Anand Niketan for Unforgettable Celebrations</h2>
+                  <p>If you're looking for exceptional dhol player services in Anand Niketan, look no further than Raj Dhol Delhi. We specialize in delivering energetic and powerful dhol performances that elevate every event, from weddings to cultural celebrations. Our skilled dhol players bring the vibrant and traditional beats of Punjabi dhol, creating an atmosphere full of energy and excitement.</p>
 
-                    <p>Our team of professional dhol players is known for their impeccable timing, high energy, and versatile repertoire, performing everything from classic folk beats to contemporary Bollywood rhythms. Add a pulse of excitement that perfectly complements your special occasion and makes it truly memorable.</p>
+<p> Whether it’s a wedding, party, or festive gathering, our dhol experts in Anand Niketan ensure every moment becomes memorable. Our wedding dhol service in Anand Niketan adds joyful rhythms and enthusiasm to your big day. Choose our Punjabi dhol service in Anand Niketan to make your celebration unforgettable, with every beat filling the air with joy and festivity.</p>
 
-                    <h3 class="feature-title h5">Book Your Dhol Service Today</h3>
-                    <p>Don’t miss out on hiring the best dhol wale in Anand Niketan for your next celebration. Let the powerful beats and vibrant rhythm of the Punjabi dhol elevate your event atmosphere. Contact us now to book our services at a reasonable price and make your weddings, festivals, and corporate events unforgettable with professional dhol performances.</p>
+                    <h3 class="feature-title h3">Hire Your Dhol Wale Today</h3>
+                    <p>Book the best Punjabi Dhol players in Anand Niketan at affordable and competitive prices. Our expert dhol team brings high-energy and dynamic performances ideal for weddings, festivals, cultural programs, and corporate events. With authentic Punjabi beats and perfect synchronization, we create an exciting and memorable ambiance that keeps your guests engaged and dancing all through the celebration.</p>
                 </div>
             </div>
         </div>
@@ -110,7 +109,7 @@
 
 
 
-      <section class="faq upgraded-space" style="padding-top: 50px; padding-bottom: 50px;">
+      <!--<section class="faq upgraded-space" style="padding-top: 50px; padding-bottom: 50px;">
         <div class="container">
             <h3 class="sec-title text-center">Get in Touch</h3>
             <form action="../wmail.php" method="post" class="d-flex justify-content-center align-items-center" style="flex-wrap: nowrap;">
@@ -144,7 +143,7 @@
 
         </div>
 
-    </section>
+    </section> -->
 
 
 
@@ -157,7 +156,7 @@
                 <div class="col-lg-6">
                     <div class="title-area">
                         <span class="sec-subtitle mt-20">Services</span>
-                        <h2 class="sec-title">Get A New Experience With Eventino Services</h2>
+                        <h4 class="sec-title">Experience Something New and Exciting with Eventino Services.</h4>
                     </div>
                 </div>
                 <div class="col-auto d-none d-lg-block">
@@ -173,10 +172,10 @@
             </div>
             <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-2.jpg" alt="service image">
+                            <img src="../assets/images/g-2.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -185,10 +184,10 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-5.jpg" alt="service image">
+                            <img src="../assets/images/g-5.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -197,10 +196,10 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-7.jpg" alt="service image">
+                            <img src="../assets/images/g-7.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -210,10 +209,10 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-8.jpg" alt="service image">
+                            <img src="../assets/images/g-8.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)
@@ -230,7 +229,7 @@
 
 
     <!-- FAQ Section -->
-    <section class="faq upgraded-space" style="padding-top: 50px; padding-bottom: 50px;">
+    <!-- <section class="faq upgraded-space" style="padding-top: 50px; padding-bottom: 50px;">
         <div class="container">
             <div class="col-lg-6" style="margin-bottom: 40px;">
                 <div class="title-area">
@@ -300,11 +299,11 @@
                     </div>
                 </div>
             </div>
-    </section>
+    </section>-->
 
 
     <!-- CTA Section -->
-    <div class="cta-section">
+   <!--  <div class="cta-section">
         <div class="cta-container">
             <h3 class="">Make your event memorable with</h3>
             <button class="vs-btn" data-slick-next="#service-slider1">
@@ -313,7 +312,7 @@
             </button>
         </div>
     </div>
-
+-->
 
 
 

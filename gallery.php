@@ -15,11 +15,11 @@
   <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
 
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/gallery" />
+  <link rel="canonical" href="https://bookpunjabidholwala.in/gallery" />
 
 
   <!-- Mobile Specific Metas -->
@@ -28,7 +28,7 @@
   <!--==============================
     Breadcumb
     ============================== -->
-  <div class="breadcumb-wrapper" data-bg-src="assets/images/bred.jpg">
+  <div class="breadcumb-wrapper" data-bg-src="assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
@@ -74,94 +74,82 @@
                 <!-- repeat ↓ pattern for g‑1 → g‑13 -->
                 <!-- 1 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-1.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-1.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 1">
+                  <a href="assets/images/g-1.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-1.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 1">
                   </a>
                 </div>
 
                 <!-- 2 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-2.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-2.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 2">
+                  <a href="assets/images/g-2.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-2.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 2">
                   </a>
                 </div>
 
                 <!-- 3 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-3.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-3.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 3">
+                  <a href="assets/images/g-3.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-3.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 3">
                   </a>
                 </div>
 
                 <!-- 4 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-4.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-4.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 4">
+                  <a href="assets/images/g-4.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-4.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 4">
                   </a>
                 </div>
 
                 <!-- 5 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-5.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-5.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 5">
+                  <a href="assets/images/g-5.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-5.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 5">
                   </a>
                 </div>
 
                 <!-- 6 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-6.jpg" data-lightbox="dhol-gallery" target="_blank" target="_blank">
-                    <img src="assets/images/g-6.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 6">
+                  <a href="assets/images/g-6.webp" data-lightbox="dhol-gallery" target="_blank" target="_blank">
+                    <img src="assets/images/g-6.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 6">
                   </a>
                 </div>
 
                 <!-- 7 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-7.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-7.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 7">
+                  <a href="assets/images/g-7.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-7.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 7">
                   </a>
                 </div>
 
                 <!-- 8 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-8.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-8.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 8">
+                  <a href="assets/images/g-8.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-8.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 8">
                   </a>
                 </div>
 
                 <!-- 9 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-9.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-9.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 9">
+                  <a href="assets/images/g-9.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-9.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 9">
                   </a>
                 </div>
 
                 <!-- 10 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-10.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-10.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 10">
+                  <a href="assets/images/g-10.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-10.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 10">
                   </a>
                 </div>
 
                 <!-- 11 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-11.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-11.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 11">
+                  <a href="assets/images/g-11.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-11.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 11">
                   </a>
                 </div>
 
-                <!-- 12 -->
-                <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-12.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-12.png" class="img-fluid w-100 h-100 thumb" alt="Gallery image 12">
-                  </a>
-                </div>
-
-                <!-- 13 -->
-                <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-13.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-13.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 13">
-                  </a>
-                </div>
+              
               </div>
             </div>
           </section>

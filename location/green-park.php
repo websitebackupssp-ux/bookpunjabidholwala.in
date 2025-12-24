@@ -5,21 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in Green Park</title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
+    <meta name="description" content="Top Dhol Player Services in Green Park. Hire expert Punjabi dhol players for weddings, events, and celebrations. Lively performances guaranteed.">
     <meta name="keywords" content="Book punjabi Dhol wala" />
     <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Dhol Player Services in Green Park" />
+  <meta property="og:description" content="Top Dhol Player Services in Green Park. Hire expert Punjabi dhol players for weddings, events, and celebrations. Lively performances guaranteed." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/green-park"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/location/green-park"/>
 
 
     <!-- Mobile Specific Metas -->
@@ -27,13 +27,13 @@
 <!--==============================
     Breadcumb
     ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Dhol Player Services in Green Park</h1>
+                <h1 style="color: #f1f1f1;">Dhol Player services in Green Park</h1>
                 <p style="color: #f1f1f1;">Book Punjabi Dhol Wala provides energetic Punjabi dhol players in Green Park, Delhi — ideal for weddings, festivals, and grand celebrations.</p>
             </div>
             <div class="breadcumb-menu-wrap">
@@ -53,17 +53,16 @@
         <div class="row gx-40 align-items-center">
             <div class="col-lg-6">
                 <div class="img-box2 text-center">
-                    <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about Green Park">
+                    <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about Green Park">
                 </div>
             </div>
              <div class="col-lg-6 mb-30 mt-20">
-                <h2 class="sec-title">Best Dhol Wale in Green Park</h2>
-                <p>Book Punjabi Dhol Wala delivers powerful and lively <strong>dhol performances in Green Park</strong> that set the perfect tone for any occasion. Our team of expert Punjabi dhol players brings authentic energy and rhythm to your wedding, event, or festive celebration.</p>
+                <h2 class="sec-title">Hire Top Punjabi Dhol Wale in Green Park for Energetic Performances</h2>
+                <p>Welcome to Book Punjabi Dhol, your premier choice for professional dhol player services in Green Park. We bring the vibrant and energetic beats of Punjabi dhol to every event, making each celebration truly unforgettable. Our talented dhol players are experienced professionals, delivering lively performances that enhance weddings, cultural events, festivals, and special occasions. With our specialized wedding dhol service in Green Park, we ensure your big day is filled with traditional rhythms, joyful energy, and memorable moments. Book Punjabi Dhol is dedicated to providing top-quality Punjabi dhol service, creating a dynamic and festive atmosphere for all your celebrations.</p>
 
-                <p>Whether you’re planning a <strong>wedding baraat</strong>, birthday, or corporate event, our <strong>dhol wale in Green Park</strong> ensure every beat uplifts your celebration. We specialize in both traditional Punjabi dhol and fusion-style performances to suit every mood.</p>
-
-                <h3 class="feature-title h5">Hire Professional Dhol Players in Green Park</h3>
-                <p>Looking for <strong>dhol services in Green Park</strong>? Contact us at +91-7042662430 to book professional and affordable dhol players. We provide flexible packages tailored for weddings, receptions, and local events in South Delhi.</p>
+                <h3 class="feature-title h5">Schedule Your Dhol Performance Today</h3>
+                <p>Hire the finest Punjabi dhol players in Green Park at affordable and reasonable rates. Our professional dhol team delivers high-energy, lively performances that are perfect for weddings, festivals, cultural events, and corporate gatherings. With authentic Punjabi rhythms and expert coordination, we create a vibrant and unforgettable atmosphere that keeps your guests entertained and dancing throughout the celebration.
+</p>
             </div>
         </div>
     </div>
@@ -136,10 +135,10 @@
     </div>
     <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-2.jpg" alt="service image">
+            <img src="../assets/images/g-2.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -148,10 +147,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-5.jpg" alt="service image">
+            <img src="../assets/images/g-5.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -160,10 +159,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-7.jpg" alt="service image">
+            <img src="../assets/images/g-7.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -173,10 +172,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-8.jpg" alt="service image">
+            <img src="../assets/images/g-8.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)

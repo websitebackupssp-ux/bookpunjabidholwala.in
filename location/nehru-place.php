@@ -5,21 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in Nehru Place</title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
-    <meta name="keywords" content="Book punjabi Dhol wala" />
+    <meta name="description" content="Top Dhol Player Services in Nehru Place. Hire expert Punjabi dhol players for weddings, events & celebrations. Vibrant, energetic performances guaranteed. Book today.">
+    <meta name="keywords" content="punjabi dhol player, punjabi dhol players near me, punjabi dhol wala near me" />
     <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Dhol Player Services in Nehru Place" />
+  <meta property="og:description" content="Top Dhol Player Services in Nehru Place. Hire expert Punjabi dhol players for weddings, events & celebrations. Vibrant, energetic performances guaranteed. Book today." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/location/nehru-place"/>
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/nehru-place"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/location/nehru-place"/>
 
 
     <!-- Mobile Specific Metas -->
@@ -27,7 +27,7 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
@@ -52,17 +52,16 @@
         <div class="row gx-40 align-items-center">
             <div class="col-lg-6">
                 <div class="img-box2 text-center">
-                    <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about Nehru Place">
+                    <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about Nehru Place">
                 </div>
             </div>
              <div class="col-lg-6 mb-30 mt-20">
-                <h2 class="sec-title">Best Dhol Wale in Nehru Place</h2>
-                <p>At <strong>Book Punjabi Dhol Wala</strong>, we provide <strong>premium dhol services in Nehru Place</strong> with professional musicians who bring energy and rhythm to every event. Whether it’s a wedding baraat, festive celebration, or corporate party, our dhol players ensure a lively and memorable performance.</p>
+                <h2 class="sec-title">Punjabi Dhol Wale in Nehru Place With Expert Players </h2>
+                <p>For exceptional dhol player services in Nehru Place, Book Punjabi Dhol is your perfect choice. We specialize in delivering dynamic and memorable dhol performances that elevate any event, from weddings to cultural celebrations. Our skilled dhol players bring the energetic and authentic beats of traditional Punjabi dhol, creating a lively and unforgettable atmosphere for your guests. Whether it’s a wedding, party, or community gathering, our dhol experts in Nehru Place ensure your event is truly special. With our wedding dhol service, your big day will be filled with vibrant rhythms, joyous moments, and an authentic Punjabi vibe that keeps everyone dancing and celebrating.</p>
 
-                <p>Our <strong>dhol wale in Nehru Place</strong> are trained professionals skilled in traditional Punjabi beats, perfect for any joyous occasion. We specialize in creating an electric atmosphere that keeps everyone dancing.</p>
-
-                <h3 class="feature-title h5">Hire Dhol Players in Nehru Place</h3>
-                <p>To <strong>book dhol players in Nehru Place</strong>, call +91-7042662430 today. We offer customized packages for every event type with competitive pricing and top-tier performance quality.</p>
+                <h3 class="feature-title h5">Book Your Dhol Service Today</h3>
+                <p>Book Your Dhol Service Now! Hire the finest Punjabi dhol players in Nehru Place at competitive and affordable rates to bring energy and excitement to your events. Our professional dhol team delivers lively and engaging performances perfect for weddings, festivals, corporate gatherings, and special occasions. With authentic Punjabi rhythms and expert coordination, we create a vibrant and unforgettable atmosphere that keeps your guests entertained and dancing throughout the celebration
+</p>
             </div>
         </div>
     </div>
@@ -134,10 +133,10 @@
         <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
 
             <div class="col-lg-3">
-                <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+                <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
                     <div class="overlay"></div>
                     <div class="service-img">
-                        <img src="../assets/images/g-2.jpg" alt="service image">
+                        <img src="../assets/images/g-2.webp" alt="service image">
                     </div>
                     <div class="service-content">
                         <h3 class="service-name h5"><a href="../service">Punjabi Dhol wala</a></h3>
@@ -146,10 +145,10 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+                <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
                     <div class="overlay"></div>
                     <div class="service-img">
-                        <img src="../assets/images/g-5.jpg" alt="service image">
+                        <img src="../assets/images/g-5.webp" alt="service image">
                     </div>
                     <div class="service-content">
                         <h3 class="service-name h5"><a href="../service">Wedding Dhol</a></h3>
@@ -158,10 +157,10 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+                <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
                     <div class="overlay"></div>
                     <div class="service-img">
-                        <img src="../assets/images/g-7.jpg" alt="service image">
+                        <img src="../assets/images/g-7.webp" alt="service image">
                     </div>
                     <div class="service-content">
                         <h3 class="service-name h5"><a href="../service">Party Dhol
@@ -171,10 +170,10 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+                <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
                     <div class="overlay"></div>
                     <div class="service-img">
-                        <img src="../assets/images/g-8.jpg" alt="service image">
+                        <img src="../assets/images/g-8.webp" alt="service image">
                     </div>
                     <div class="service-content">
                         <h3 class="service-name h5"><a href="../service">Dhol for (Any auspicious Ocaasion)
@@ -191,42 +190,208 @@
 
 <!-- FAQ Section -->
 <section class="faq upgraded-space" style="padding-top: 50px; padding-bottom: 50px;">
-    <div class="container">
-        <div class="col-lg-6" style="margin-bottom: 40px;">
-            <div class="title-area">
-                <span class="sec-subtitle mt-20">Frequently Asked Questions</span>
-                <h2 class="sec-title">Get Your Answers</h2>
-            </div>
+  <div class="container">
+    <div class="col-lg-6" style="margin-bottom: 40px;">
+      <div class="title-area">
+        <span class="sec-subtitle mt-20">Frequently Asked Questions</span>
+        <h2 class="sec-title">Get Your Answers</h2>
+      </div>
+    </div>
+    <div class="accordion faq-accordion" id="faqAccordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingOne">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="font-size: 22px; font-weight: 700; line-height: 1.3;">
+            What dhol services does Book Punjabi Dhol Wala offer in Saket?
+          </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+          <div class="accordion-body" style="padding: 20px 25px;">
+            <p style="font-size: 18px; line-height: 1.6; color: #333;">Book Punjabi Dhol Wala offers a variety of dhol services in Saket, including wedding dhol performances, festival beats, dhol for parties, and cultural dhol for all types of events. Our professional dhol players bring traditional Punjabi music to life at every occasion.</p>
+          </div>
         </div>
-        <div class="accordion faq-accordion" id="faqAccordion">
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingTwo">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-size: 22px; font-weight: 700; line-height: 1.3;">
+            How can I book a dhol player for my wedding in Saket?
+          </button>
+        </h2>
+        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+          <div class="accordion-body" style="padding: 20px 25px;">
+            <p style="font-size: 18px; line-height: 1.6; color: #333;">Booking a dhol player for your wedding in Saket is easy! Simply call us at +91-7042662430 or visit our website to fill out the enquiry form with your event details. Our team will reach out to discuss your requirements, event packages, and pricing options.</p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingThree">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-size: 22px; font-weight: 700; line-height: 1.3;">
+            Why choose Book Punjabi Dhol Wala for Punjabi dhol in Saket?
+          </button>
+        </h2>
+        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+          <div class="accordion-body" style="padding: 20px 25px;">
+            <p style="font-size: 18px; line-height: 1.6; color: #333;">Book Punjabi Dhol Wala is renowned for its experienced and passionate dhol players who bring the vibrant energy of Punjabi music to every event. Our high-quality performances, along with customizable packages, ensure your event in Saket is filled with excitement, joy, and unforgettable memories.</p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingFour">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-size: 22px; font-weight: 700; line-height: 1.3;">
+            What are the rates for dhol services in Saket?
+          </button>
+        </h2>
+        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+          <div class="accordion-body" style="padding: 20px 25px;">
+            <p style="font-size: 18px; line-height: 1.6; color: #333;">Our dhol service rates in Saket are highly competitive and depend on the duration of the event, number of performers, and the type of celebration. We offer flexible packages for weddings, parties, festivals, and corporate events. Contact us at +91-7042662430 for a detailed quote based on your event's requirements.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="font-size: 22px; font-weight: 700;">
-                        What events do you cover in Nehru Place?
-                    </button>
-                </h2>
-                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                    <div class="accordion-body" style="padding: 20px 25px;">
-                        <p>We provide <strong>dhol services in Nehru Place</strong> for weddings, pre-wedding functions, corporate events, cultural fests, and promotional parades — anywhere music and celebration are needed!</p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-size: 22px; font-weight: 700;">
-                        How can I hire dhol players in Nehru Place?
-                    </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                    <div class="accordion-body" style="padding: 20px 25px;">
-                        <p>Call +91-7042662430 or reach us through our website to <strong>hire dhol players in Nehru Place</strong>. We’ll help you plan the perfect dhol performance for your event size and budget.</p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-size: 22px; font-weight: 700;">
-                        What makes your dhol services special in Nehru Place?
+<!-- CTA Section -->
+<div class="cta-section">
+    <div class="cta-container">
+        <h3 class="">Make your event memorable with</h3>
+        <button class="vs-btn" data-slick-next="#service-slider1">
+            <a href="tel:917042662430" class="cta-button">Enquiry Now</a>
+            <i class="far fa-arrow-right"></i>
+        </button>
+    </div>
+</div>
+
+
+
+
+<!-- Inline CSS for styling -->
+<style>
+    .cta-section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 40vh;
+        /* full screen height */
+        background-color: #fff;
+    }
+
+    .cta-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1000px;
+        width: 90%;
+        padding: 30px;
+        border: 3px solid #7409f6;
+        border-radius: 20px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+    }
+
+    /* For smaller screens, stack vertically */
+    @media(max-width: 768px) {
+        .cta-container {
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .cta-title {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .cta-title {
+        font-size: 30px;
+        font-weight: 700;
+        margin: 0;
+        color: #222;
+    }
+
+    .cta-button {
+        padding: 15px 30px;
+        font-size: 20px;
+        font-weight: 600;
+        color: #fff;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        text-decoration: none;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+     
+</style>
+
+
+
+<!-- Updated CSS -->
+<style>
+    .upgraded-space {
+        background: #f9f9f9;
+    }
+
+    .section-header .sec-subtitle {
+        font-size: 14px;
+        color: #ff4b2b;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .section-header .sec-title {
+        font-size: 32px;
+        /* Slightly increased for header */
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+
+    /* Accordion styles */
+    .faq-accordion .accordion-button {
+        background-color: #fff;
+        padding: 20px 25px;
+        border: none;
+        border-radius: 8px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        color: #222;
+    }
+
+    .faq-accordion .accordion-button:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+    .faq-accordion .accordion-button.collapsed:hover {
+        background-color: #f1f1f1;
+        transform: translateY(-2px);
+    }
+
+    .faq-accordion .accordion-body {
+        padding: 0;
+        /* Padding handled inside p */
+        background-color: #ffffff;
+        border-radius: 0 0 8px 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+
+    /* Responsive font sizing */
+    @media (max-width: 768px) {
+        .section-header .sec-title {
+            font-size: 28px;
+        }
+
+        .accordion-button {
+            font-size: 20px !important;
+            /* Override inline style */
+        }
+
+        .accordion-body p {
+            font-size: 16px !important;
+        }
+    }
+</style>
+
+
+<?php require('footer.php') ?>

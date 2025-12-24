@@ -5,29 +5,29 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in Shanti Niketan</title>
     <meta name="author"  
 
 content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
+    <meta name="description" content="Top Dhol Player Services in Shanti Niketan. Hire expert Punjabi Dhol players for weddings, events, and celebrations. Vibrant performances guaranteed. Book now">
     <meta name="keywords" content="Book punjabi Dhol wala" />
     <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Dhol Player Services in Shanti Niketan" />
+  <meta property="og:description" content="Top Dhol Player Services in Shanti Niketan. Hire expert Punjabi Dhol players for weddings, events, and celebrations. Vibrant performances guaranteed. Book now." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/shanti-niketan"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/location/shanti-niketan"/>
 
 
     <!-- Mobile Specific Metas -->
 <?php require('header.php') ?>
 <!--============================== Breadcumb ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
   <div class="overlay"></div>
   <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
   <div class="container z-index-common">
@@ -52,15 +52,15 @@ content="Book punjabi Dhol wala">
     <div class="row gx-40 align-items-center">
       <div class="col-lg-6">
         <div class="img-box2 text-center">
-          <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about Shanti Niketan">
+          <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about Shanti Niketan">
         </div>
       </div>
       <div class="col-lg-6 mb-30">
-        <h2 class="sec-title">Best Dhol Wale in Shanti Niketan</h2>
-        <p>Book Punjabi Dhol Wala brings the authentic sound of Punjabi dhol to Shanti Niketan, Delhi. Whether it’s a wedding, festival, or corporate event, our vibrant dhol performances fill the atmosphere with joy and celebration.</p>
-        <p>Our expert dhol players are skilled in both traditional Punjabi beats and contemporary Bollywood rhythms, ensuring a dynamic performance tailored to your event. Experience the energy and rhythm that only a live Punjabi dhol can provide and make your celebration in Shanti Niketan truly unforgettable.</p>
-        <h3 class="feature-title h5">Book Your Dhol Service Today</h3>
-        <p>Ready to elevate your next celebration? Contact us now to book the best dhol wale in Shanti Niketan. From weddings to festivals, we offer affordable packages that add an electrifying vibe to your event.</p>
+        <h2 class="sec-title">Hire Expert Dhol Players in Shanti Niketan for Energetic Celebrations</h2>
+        <p>Book the best dhol players in Shanti Niketan at affordable prices and make your celebrations come alive with the powerful beats of traditional Punjabi dhol. At Book Punjabi Dhol, we provide experienced and professional dhol wale who specialize in performing at weddings, festive occasions, corporate gatherings, and cultural events. Our talented artists know how to set the right mood with energetic rhythms and engaging performances that keep the crowd entertained. Whether it’s a grand wedding procession, a lively festival, or an office celebration, our dhol players in Shanti Niketan ensure your event is filled with joy, energy, and unforgettable moments.</p>
+        <h3 class="feature-title h5">Reserve Your Dhol Service Today</h3>
+        <p>At Book Punjabi Dhol, we take pride in providing the best dhol player service in Shanti Niketan. Whether you need an energetic Punjabi dhol for a festive celebration or a traditional wedding dhol to make your big day unforgettable, our skilled team delivers powerful performances that leave a lasting impression. Our expert dhol players bring authentic beats and lively energy to every event, making it memorable for everyone. As the leading dhol wale in Shanti Niketan, we create the perfect atmosphere to elevate your celebrations with rhythm and excitement.
+</p>
       </div>
     </div>
   </div>
@@ -133,10 +133,10 @@ content="Book punjabi Dhol wala">
     </div>
     <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-2.jpg" alt="service image">
+            <img src="../assets/images/g-2.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -145,10 +145,10 @@ content="Book punjabi Dhol wala">
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-5.jpg" alt="service image">
+            <img src="../assets/images/g-5.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -157,10 +157,10 @@ content="Book punjabi Dhol wala">
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-7.jpg" alt="service image">
+            <img src="../assets/images/g-7.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -170,10 +170,10 @@ content="Book punjabi Dhol wala">
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-8.jpg" alt="service image">
+            <img src="../assets/images/g-8.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)

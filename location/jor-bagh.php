@@ -5,21 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Best Dhol Services in Jor Bagh	</title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
+    <meta name="description" content="Book the top Punjabi Dhol players in Jor Bagh for weddings, parties, and cultural events. Enjoy energetic beats, lively performances, and professional service. Call now to hire.">
     <meta name="keywords" content="Book punjabi Dhol wala" />
     <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
+  <meta property="og:title" content="Book the top Punjabi Dhol players in Jor Bagh for weddings, parties, and cultural events. Enjoy energetic beats, lively performances, and professional service. Call now to hire." />
   <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/jor-bagh"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/location/jor-bagh"/>
 
 
     <!-- Mobile Specific Metas -->
@@ -27,13 +27,13 @@
 <!--==============================
     Breadcumb
     ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Dhol Player Services in Jor Bagh</h1>
+                <h1 style="color: #f1f1f1;">Best Dhol Services in Jor Bagh</h1>
                 <p style="color: #f1f1f1;">Book Punjabi Dhol Wala delivers energetic and authentic Punjabi dhol performances in Jor Bagh, Delhi — ideal for weddings, parties, and festive events.</p>
             </div>
             <div class="breadcumb-menu-wrap">
@@ -53,17 +53,15 @@
         <div class="row gx-40 align-items-center">
             <div class="col-lg-6">
                 <div class="img-box2 text-center">
-                    <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about Jor Bagh">
+                    <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about Jor Bagh">
                 </div>
             </div>
              <div class="col-lg-6 mb-30 mt-20">
-                <h2 class="sec-title">Best Dhol Wale in Jor Bagh</h2>
-                <p>Book Punjabi Dhol Wala provides <strong>premium dhol player services in Jor Bagh</strong>, Delhi. Our expert dholis bring energy, rhythm, and festive spirit to every event, making your celebration unforgettable. Whether it’s a <strong>wedding baraat</strong>, <strong>corporate event</strong>, or <strong>family function</strong>, we ensure your guests feel the true Punjabi vibe.</p>
+                <h2 class="sec-title">Hire the Best Dhol Wale in Jor Bagh</h2>
+                <p>If you’re looking for the best dhol player service in Jor Bagh, Book Punjabi Dhol Delhi is your go-to choice. We offer energetic and professional dhol performances that bring life to any event—be it a wedding, party, or cultural celebration. Our skilled Punjabi dhol players know how to create the perfect festive vibe with their powerful beats and unmatched coordination. Whether it’s a baraat, engagement, or corporate event, our dhol wale in Jor Bagh will make every moment memorable. With our wedding dhol service in Jor Bagh, you can expect traditional rhythms that fill your celebration with joy and excitement. Choose Book Punjabi Dhol Delhi for authentic Punjabi dhol beats that will keep your guests dancing till the end.</p>
 
-                <p>Our <strong>dhol wale in Jor Bagh</strong> are known for blending traditional beats with Bollywood and Bhangra rhythms, creating a high-energy experience that lifts every mood. We bring the sound, energy, and joy right to your venue.</p>
-
-                <h3 class="feature-title h5">Hire Professional Dhol Players in Jor Bagh</h3>
-                <p>Planning a celebration? Hire <strong>Book Punjabi Dhol Wala in Jor Bagh</strong> today! Call +91-7042662430 to book vibrant dhol performances for weddings, receptions, and cultural gatherings at affordable rates.</p>
+                <h3 class="feature-title h5">Hire Expert Dhol Team Today in Jor Bagh</h3>
+                <p>Hire the best Punjabi dhol players in Jor Bagh at affordable and reasonable rates. Our experienced dhol team is perfect for weddings, parties, festivals, and corporate events, bringing lively and powerful beats that energize every celebration. With professional coordination and traditional rhythms, we ensure an unforgettable experience for you and your guests. Make your special occasion vibrant, joyous, and full of life by booking our expert dhol service today.</p>
             </div>
         </div>
     </div>
@@ -136,10 +134,10 @@
     </div>
     <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-2.jpg" alt="service image">
+            <img src="../assets/images/g-2.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -148,10 +146,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-5.jpg" alt="service image">
+            <img src="../assets/images/g-5.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -160,10 +158,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-7.jpg" alt="service image">
+            <img src="../assets/images/g-7.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -173,10 +171,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-8.jpg" alt="service image">
+            <img src="../assets/images/g-8.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)

@@ -5,21 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in Greater Kailash </title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
+    <meta name="description" content="Best Dhol Player Services in Greater Kailash. Hire skilled Punjabi dhol players to make your weddings, parties, and special events lively and unforgettable.">
     <meta name="keywords" content="Book punjabi Dhol wala" />
     <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Dhol Player Services in Greater Kailash " />
+  <meta property="og:description" content="Best Dhol Player Services in Greater Kailash. Hire skilled Punjabi dhol players to make your weddings, parties, and special events lively and unforgettable." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/greater-kailash"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/location/greater-kailash"/>
 
 
     <!-- Mobile Specific Metas -->
@@ -27,13 +27,13 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Dhol Player Services in Greater Kailash</h1>
+                <h1 style="color: #f1f1f1;">Dhol Player Services in Greater Kailash </h1>
                 <p style="color: #f1f1f1;">Book Punjabi Dhol Wala provides high-energy Punjabi dhol players in Greater Kailash, Delhi — perfect for weddings, baraats, festivals, and parties.</p>
             </div>
             <div class="breadcumb-menu-wrap">
@@ -53,17 +53,15 @@
         <div class="row gx-40 align-items-center">
             <div class="col-lg-6">
                 <div class="img-box2 text-center">
-                    <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about Greater Kailash">
+                    <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about Greater Kailash">
                 </div>
             </div>
              <div class="col-lg-6 mb-30 mt-20">
-                <h2 class="sec-title">Best Dhol Wale in Greater Kailash</h2>
-                <p>Book Punjabi Dhol Wala offers the most energetic <strong>dhol players in Greater Kailash</strong>, known for their lively beats and unmatched performance quality. Our experienced Punjabi dhol artists create a festive atmosphere that makes every event memorable.</p>
+                <h2 class="sec-title">Punjabi Dhol Wale in Greater Kailash for Unforgettable Celebrations</h2>
+                <p>Add a lively and unforgettable musical vibe to your celebrations in Greater Kailash with Book Punjabi Dhol. We provide professional dhol player services perfect for weddings, parties, and cultural events. Our talented dhol players bring the authentic energy of Punjabi beats to your occasion, creating an atmosphere full of excitement and joy. Whether you’re planning a grand wedding baraat, a festive reception, or a special event, our expert dhol wale in Greater Kailash will make every moment vibrant and memorable. Known for their professionalism and dynamic performances, our team ensures your celebration stands out with energetic rhythms and traditional Punjabi spirit.</p>
 
-                <p>From traditional baraats to modern parties, our <strong>dhol wale in Greater Kailash</strong> deliver powerful sound and energy. We specialize in live Punjabi beats for weddings, receptions, corporate events, and cultural celebrations across South Delhi.</p>
-
-                <h3 class="feature-title h5">Book Professional Dhol Players in Greater Kailash</h3>
-                <p>Searching for <strong>Punjabi dhol players in Greater Kailash</strong>? Call +91-7042662430 to hire the best dhol wale for your next event. We offer affordable, customizable packages with professional and punctual service.</p>
+                <h3 class="feature-title h5">Book Your Dhol Service Today</h3>
+                <p>Hire the finest Punjabi dhol wale in Greater Kailash at affordable and reasonable rates. Our professional dhol players deliver energetic and lively performances that are perfect for weddings, festivals, cultural celebrations, and corporate events. With authentic Punjabi rhythms and expert coordination, we create a joyful and unforgettable atmosphere that keeps your guests entertained and dancing throughout the event. Book now to bring vibrant beats and festive energy to your special occasion.</p>
             </div>
         </div>
     </div>
@@ -134,10 +132,10 @@
     </div>
     <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-2.jpg" alt="service image">
+            <img src="../assets/images/g-2.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -146,10 +144,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-5.jpg" alt="service image">
+            <img src="../assets/images/g-5.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -158,10 +156,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-7.jpg" alt="service image">
+            <img src="../assets/images/g-7.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -171,10 +169,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-8.jpg" alt="service image">
+            <img src="../assets/images/g-8.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)

@@ -1,20 +1,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<head>  
+
 <!-- Favicons - Place favicon.ico in the root directory -->
-<link rel="apple-touch-icon" sizes="57x57" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="60x60" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="72x72" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="76x76" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="114x114" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="120x120" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="144x144" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="152x152" href="assets/images/logo.png">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo.png">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo.png">
-<link rel="icon" type="image/png" sizes="96x96" href="assets/images/logo.png">
-<link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo.png">
-<link rel="manifest" href="assets/images/logo.png">
+<link rel="apple-touch-icon" sizes="57x57" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="60x60" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="72x72" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="76x76" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="114x114" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="120x120" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="144x144" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="152x152" href="assets/images/logo.webp">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo.webp">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo.webp">
+<link rel="icon" type="image/png" sizes="96x96" href="assets/images/logo.webp">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo.webp">
+<link rel="manifest" href="assets/images/logo.webp">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="assets/images/logo.png">
+<meta name="msapplication-TileImage" content="assets/images/logo.webp">
 <meta name="theme-color" content="#ffffff">
 <!--==============================
       Google Fonts
@@ -40,32 +42,29 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@23.7.3/build/css/intlTelInput.css">
 <!-- Theme Custom CSS -->
 <link rel="stylesheet" href="assets/css/style.css">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TMKLZKKS');</script>
+<!-- End Google Tag Manager -->
+
 </head>
 
 <body>
-    <!--[if lte IE 9]>
-        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
-    <!--********************************
-           Code Start From Here 
-    ******************************** -->
-    <!--==============================
-    Preloader
-    ==============================-->
-    <div class="preloader">
-        <button class="vs-btn preloaderCls">Cancel Preloader </button>
-        <div class="preloader-inner">
-            <img src="assets/images/logo.png" alt="logo">
-            <span class="loader"></span>
-        </div>
-    </div>
-    <!--==============================
-    Mobile Menu
-  ============================== -->
+
+  
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMKLZKKS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  
     <div class="vs-menu-wrapper">
         <div class="vs-menu-area text-center">
             <div class="mobile-logo">
-                <a href="/"><img src="assets/images/logo.png" alt="Carmax" class="logo"></a>
+                <a href="/"><img src="assets/images/logo.webp" alt="Carmax" class="logo"></a>
                 <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
             </div>
             <div class="vs-mobile-menu">
@@ -97,7 +96,7 @@
                         <a href="gallery">Gallery</a>
                     </li>
                     <li>
-                        <a href="location.php">Location</a>
+                        <a href="locations">Location</a>
                     </li>
                     <li>
                         <a href="contact">Contact Us</a>
@@ -140,7 +139,7 @@
                     <div class="row gx-50 justify-content-between align-items-center gx-sm-0">
                         <div class="col">
                             <div class="header-logo">
-                                <a href="/"><img src="assets/images/logo.png" alt="Eventino" class="logo"
+                                <a href="/"><img src="assets/images/logo.webp" alt="Eventino" class="logo"
                                         width="135" height="60px"></a>
                             </div>
                         </div>
@@ -156,7 +155,7 @@
                             <div class="header-info_icon"><i class="fas fa-phone-alt"></i></div>
                             <div class="media-body">
                                 <span class="header-info_label">Call us 24/7</span>
-                                <div class="header-info_link"><a href="tel:+052699256693">+91 7042662430</a></div>
+                                <div class="header-info_link"><a href="tel:+917042662430">+91 7042662430</a></div>
                             </div>
                         </div>
                         <div class="col-auto">
@@ -208,7 +207,7 @@
                                                 <a href="gallery">Gallery</a>
                                             </li>
                                             <li>
-                                                <a href="location.php">Location</a>
+                                                <a href="locations">Location</a>
                                             </li>
 
                                             <li>

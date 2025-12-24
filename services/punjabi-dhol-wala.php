@@ -5,21 +5,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Book punjabi Dhol wala</title>
+  <title>Punjabi Dhol Wala in Delhi-Book Punjabi Dhol Player</title>
   <meta name="author" content="Book punjabi Dhol wala">
-  <meta name="description" content="Book punjabi Dhol wala">
-  <meta name="keywords" content="Book punjabi Dhol wala" />
+  <meta name="description" content="Book a skilled Punjabi Dhol Wala in Delhi for weddings, parties, and events. Enjoy vibrant beats with our Dhol Players and Live Dhol Performance.">
+  <meta name="keywords" content="Book punjabi Dhol wala , Punjabi Dhol wala In delhi , Best weddinh Dhol in Delhi." />
   <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Punjabi Dhol Wala in Delhi-Book Punjabi Dhol Player" />
+  <meta property="og:description" content="Book a skilled Punjabi Dhol Wala in Delhi for weddings, parties, and events. Enjoy vibrant beats with our Dhol Players and Live Dhol Performance." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/punjabi-dhol-wala" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/services/punjabi-dhol-wala"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/services/punjabi-dhol-wala"/>
 
 
   <!-- Mobile Specific Metas -->
@@ -28,15 +28,15 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Dhol Player Services</h1>
+                <h1 style="color: #f1f1f1;">Book Dhol in Delhi with Us</h1>
                 <p style="color: #f1f1f1;">
-                    Book Punjabi Dhol Wala for the most electrifying and authentic Punjabi Dhol player performances. Ideal for weddings, birthday parties, cultural festivals, and all special celebrations.
+                    Book a skilled Punjabi Dhol Wala in Delhi for the most electrifying and authentic Dhol Player performances. Perfect for weddings, birthday parties, housewarmings, cultural festivals, and all special celebrations, our Live Dhol Performance in Delhi brings vibrant beats, high-energy rhythms, and traditional Punjabi vibes to every event. Make your occasions memorable with our Wedding Dhol Service, Party Dhol Service, and expert Dhol Players who ensure nonstop entertainment and festive energy for you and your guests.
                 </p>
             </div>
             <div class="breadcumb-menu-wrap">
@@ -82,7 +82,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="service-hero-img">
-                    <img src="../assets/images/g-11.jpg" alt="Punjabi Dhol Player Performance" class="hero-main-img">
+                    <img src="../assets/images/g-11.webp" alt="Punjabi Dhol Player Performance" class="hero-main-img">
                     <div class="floating-card">
                         <div class="card-content">
                             <h4>250+ Events</h4>
@@ -143,10 +143,10 @@
         <div class="service-gallery mb-60">
             <div class="row">
                 <div class="col-lg-6 mb-30">
-                    <img src="../assets/images/g-10.jpg" alt="Punjabi Dhol Wala at Wedding Ceremony" class="gallery-full-img">
+                    <img src="../assets/images/g-10.webp" alt="Punjabi Dhol Wala at Wedding Ceremony" class="gallery-full-img">
                 </div>
                 <div class="col-lg-6 mb-30 mt-20">
-                    <img src="../assets/images/g-7.jpg" alt="Traditional Dhol Performance at Event" class="gallery-full-img">
+                    <img src="../assets/images/g-7.webp" alt="Traditional Dhol Performance at Event" class="gallery-full-img">
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@
            <div class="widget footer-widget">
              <h3 class="widget_title">About Company<img src="assets/img/shapes/d-1-1.svg"></h3>
              <div class="footer-logo">
-               <a href="/"><img src="assets/images/logo.png" style="background-color:white; border-radius:10px; width:150px;" alt="Eventino" class="logo"></a>
+               <a href="/"><img src="assets/images/logo.webp" style="background-color:white; border-radius:10px; width:150px;" alt="Eventino" class="logo"></a>
              </div>
              <div class="vs-widget-about">
                <p class="footer-text">
@@ -64,7 +64,8 @@
                <div class="media-body">
                  <span class="footer-info_label">Phone No:</span>
                  <div class="footer-info_link">
-                   <a href="tel:+1 0109 -1812-347">+91-7042662430</a>
+                   <a href="tel:+91 7042662430
+">+91-7042662430</a>
                  </div>
                </div>
              </div>

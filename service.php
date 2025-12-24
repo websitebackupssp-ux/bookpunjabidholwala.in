@@ -15,11 +15,11 @@
   <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/service"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/service"/>
 
 
   <!-- Mobile Specific Metas -->
@@ -27,7 +27,7 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="assets/images/bred.webp">
   <div class="overlay"></div>
   <img src="assets/img/shapes/b-1-1.png" alt="shape" class="shape">
   <div class="container z-index-common">
@@ -107,10 +107,10 @@
     </div>
     <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="assets/images/g-2.jpg">
+        <div class="service-style2" data-bg-src="assets/images/g-2.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="assets/images/g-2.jpg" alt="service image">
+            <img src="assets/images/g-2.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="./services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -119,10 +119,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="assets/images/g-5.jpg">
+        <div class="service-style2" data-bg-src="assets/images/g-5.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="assets/images/g-5.jpg" alt="service image">
+            <img src="assets/images/g-5.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="./services/wedding-dhol">Wedding Dhol</a></h3>
@@ -131,10 +131,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="assets/images/g-7.jpg">
+        <div class="service-style2" data-bg-src="assets/images/g-7.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="assets/images/g-7.jpg" alt="service image">
+            <img src="assets/images/g-7.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="./services/party-dhol">Party Dhol
@@ -144,10 +144,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="assets/images/g-8.jpg">
+        <div class="service-style2" data-bg-src="assets/images/g-8.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="assets/images/g-8.jpg" alt="service image">
+            <img src="assets/images/g-8.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="./services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)
@@ -236,7 +236,7 @@
             <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
           </div>
           <div class="testi-author">
-            <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+            <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
             <div class="media-body">
               <h3 class="testi-name">Amanpreet Kaur</h3>
               <div class="testi-degi">Bride’s Sister</div>
@@ -258,7 +258,7 @@
             <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
           </div>
           <div class="testi-author">
-            <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+            <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
             <div class="media-body">
               <h3 class="testi-name">Rajesh Sharma</h3>
               <div class="testi-degi">Event Planner</div>
@@ -280,7 +280,7 @@
             <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
           </div>
           <div class="testi-author">
-            <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+            <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
             <div class="media-body">
               <h3 class="testi-name">Sukhdeep Singh</h3>
               <div class="testi-degi">Groom</div>
@@ -302,7 +302,7 @@
             <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
           </div>
           <div class="testi-author">
-            <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+            <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
             <div class="media-body">
               <h3 class="testi-name">Pooja Mehta</h3>
               <div class="testi-degi">Birthday Host</div>
@@ -324,7 +324,7 @@
             <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
           </div>
           <div class="testi-author">
-            <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+            <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
             <div class="media-body">
               <h3 class="testi-name">Nisha Arora</h3>
               <div class="testi-degi">Corporate Event Organizer</div>
@@ -346,7 +346,7 @@
             <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
           </div>
           <div class="testi-author">
-            <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+            <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
             <div class="media-body">
               <h3 class="testi-name">Karan Bedi</h3>
               <div class="testi-degi">DJ Partner</div>

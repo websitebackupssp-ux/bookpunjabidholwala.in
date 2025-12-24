@@ -5,21 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in East Of Kailash </title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
+    <meta name="description" content="Top Dhol Player Services in East of Kailash. Hire skilled Punjabi dhol players for weddings, events, and celebrations. Energetic performances guaranteed!">
     <meta name="keywords" content="Book punjabi Dhol wala" />
     <meta name="robots" content="INDEX,FOLLOW">
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-    <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+    <meta property="og:title" content="Dhol Player Services in East Of Kailash " />
+    <meta property="og:description" content="Top Dhol Player Services in East of Kailash. Hire skilled Punjabi dhol players for weddings, events, and celebrations. Energetic performances guaranteed!" />
 
     <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-    <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-    <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+    <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+    <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
 
-    <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/east-of-kailash" />
+    <link rel="canonical" href="https://bookpunjabidholwala.in/location/east-of-kailash" />
 
 
     <!-- Mobile Specific Metas -->
@@ -27,13 +27,13 @@
     <!--==============================
     Breadcumb
     ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+    <div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
         <div class="overlay"></div>
         <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
         <div class="container z-index-common">
             <div class="breadcumb-content">
                 <div class="breadcumb-title">
-                    <h1 style="color: #f1f1f1;">Dhol Player Services in East of Kailash</h1>
+                    <h1 style="color: #f1f1f1;">Dhol Player Services in East Of Kailash </h1>
                     <p style="color: #f1f1f1;">Book Punjabi Dhol Wala offers energetic Punjabi Dhol players in East of Kailash, Delhi — perfect for weddings, events, and festive celebrations.</p>
                 </div>
                 <div class="breadcumb-menu-wrap">
@@ -54,17 +54,15 @@
             <div class="row gx-40 align-items-center">
                 <div class="col-lg-6">
                     <div class="img-box2 text-center">
-                        <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about East of Kailash">
+                        <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about East of Kailash">
                     </div>
                 </div>
                 <div class="col-lg-6 mb-30 mt-20">
-                    <h2 class="sec-title">Best Dhol Wale in East of Kailash</h2>
-                    <p>Book Punjabi Dhol Wala provides professional <strong>Dhol players in East of Kailash, Delhi</strong>, delivering high-energy Punjabi beats that turn every occasion into a lively celebration. Whether it’s a wedding baraat, cultural festival, or private party, our skilled team creates an unforgettable musical experience.</p>
+                    <h2 class="sec-title">Book Expert Punjabi Dhol Wale in East of Kailash for Unforgettable Celebrations</h2>
+                    <p>Welcome to Book Punjabi Dhol, your top choice for professional dhol player services in East of Kailash. We bring the vibrant and energetic beats of Punjabi dhol to every event, making your celebrations truly unforgettable. Our skilled dhol players are experienced professionals who deliver lively performances that elevate weddings, cultural gatherings, festivals, and special occasions. With our dedicated wedding dhol service in East of Kailash, we ensure your special day resonates with traditional rhythms and joyous energy. Book Punjabi Dhol is committed to providing the highest quality Punjabi dhol service, creating memorable moments and a lively atmosphere for all your events.</p>
 
-                    <p>Our dhol players blend traditional Punjabi rhythms with modern tunes, keeping your guests entertained throughout. Known for their passion, timing, and coordination, our artists add excitement and cultural flair to every performance in East of Kailash.</p>
-
-                    <h3 class="feature-title h5">Book Professional Dhol Players in East of Kailash</h3>
-                    <p>Looking for <strong>Punjabi Dhol Wale in East of Kailash</strong>? Hire our experienced team for weddings, events, or celebrations at affordable prices. Contact us today at +91-7042662430 for customized packages that bring authentic Punjabi energy to your doorstep.</p>
+                    <h3 class="feature-title h5">Hire Dhol Service Today Near You</h3>
+                    <p>Hire the finest Punjabi dhol players in East of Kailash at affordable and reasonable rates. Our professional dhol team delivers high-energy and engaging performances, perfect for weddings, festive celebrations, cultural events, and corporate functions. With authentic Punjabi rhythms and expert coordination, we create a vibrant and lively atmosphere that keeps your guests entertained and dancing throughout the event. </p>
                 </div>
             </div>
         </div>
@@ -138,10 +136,10 @@
             </div>
             <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-2.jpg" alt="service image">
+                            <img src="../assets/images/g-2.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -150,10 +148,10 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-5.jpg" alt="service image">
+                            <img src="../assets/images/g-5.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -162,10 +160,10 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-7.jpg" alt="service image">
+                            <img src="../assets/images/g-7.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -175,10 +173,10 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+                    <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
                         <div class="overlay"></div>
                         <div class="service-img">
-                            <img src="../assets/images/g-8.jpg" alt="service image">
+                            <img src="../assets/images/g-8.webp" alt="service image">
                         </div>
                         <div class="service-content">
                             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)

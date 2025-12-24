@@ -7,19 +7,19 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>Book punjabi Dhol wala</title>
   <meta name="author" content="Book punjabi Dhol wala">
-  <meta name="description" content="Book punjabi Dhol wala">
-  <meta name="keywords" content="Book punjabi Dhol wala" />
+  <meta name="description" content="Looking for a professional Dhol Wala in Delhi NCR? Hire experienced dhol players for weddings, events, and celebrations at affordable prices.">
+  <meta name="keywords" content="dhol wala, punjabi dhol wala, punjabi dhol wala delhi, dhol players in delhi, professional dhol player, wedding dhol wala, dhol player hire, dhol players near me, dhol drummers for hire, best dhol wala" />
   <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
+  <meta property="og:title" content="Book Punjabi Dhol wala Band in Delhi" />
   <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/"/>
 
 
   <!-- Mobile Specific Metas -->
@@ -31,14 +31,14 @@
       <div>
         <div class="hero-inner style2">
           <div class="overlay"></div>
-          <div class="hero-bg" data-bg-src="assets/images/banner-2.png"></div>
+          <div class="hero-bg" data-bg-src="assets/images/banner-2.webp"></div>
           <img src="assets/img/shapes/h-1-1.png" alt="shapes" class="hero-shape1">
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-lg-6 mx-auto">
                 <div class="hero-content style2 text-center">
                   <span class="hero-subtitle">Book Punjabi Dhol wala</span>
-                  <h1 class="hero-title">Bring the Spirit of Punjab to Your Event</h1>
+                  <h1 class="hero-title">Punjabi Dhol Wala in Delhi</h1>
                   <p class="hero-text">From weddings to festivals, our expert Dhol players add energy, excitement, and a
                     cultural touch that lights up every moment.</p>
 
@@ -59,16 +59,16 @@
       <div>
         <div class="hero-inner style2">
           <div class="overlay"></div>
-          <div class="hero-bg" data-bg-src="assets/images/banner-1.jpg"></div>
+          <div class="hero-bg" data-bg-src="assets/images/banner-1.webp"></div>
           <img src="assets/img/shapes/h-1-1.png" alt="shapes" class="hero-shape1">
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-lg-7 mx-auto">
                 <div class="hero-content style2 text-center">
                   <span class="hero-subtitle">Book Punjabi Dhol wala</span>
-                  <h1 class="hero-title">Book Punjabi Dhol Wala for Vibrant Celebrations</h1>
+                  <h1 class="hero-title">Dhol Wala for Vibrant Celebrations</h1>
                   <p class="hero-text">Make your weddings, parties, and events unforgettable with the thunderous beats of
-                    our professional Punjabi Dhol artists. Book now for high-energy vibes!</p>
+                    our professional Punjabi Dhol Wala Artists. Book now for high-energy vibes!</p>
 
                   <div class="hero-btns justify-content-center">
                     <a href="about" class="vs-btn">
@@ -98,16 +98,16 @@
               <span class="number"><span>5</span>+</span>
               <h3 class="title">Years of Experience</h3>
             </div> -->
-            <img src="assets/images/about-us.jpg" style=" height: 654px;
+            <img src="assets/images/about-us.webp" style=" height: 654px;
     width: 100%;
     object-fit: cover; " alt="about">
           </div>
         </div>
         <div class="col-lg-6 mb-30">
           <span class="sec-subtitle mt-20">About Us</span>
-          <h2 class="sec-title">We Are Book Punjabi Dhol Wala – Adding Beats to Your Celebrations</h2>
-          <p>Book Punjabi Dhol Wala is your go-to destination for energetic and traditional Dhol performances. We bring
-            life to every celebration with the thumping sound of Punjabi Dhol. Whether it’s a wedding, party, or any
+          <h2 class="sec-title">We Are Dhol Wala – Adding Beats to Your Celebrations</h2>
+          <p>Hire Punjabi Dhol Wala is your go-to destination for energetic and traditional Dhol performances. We bring
+            life to every celebration with the thumping sound of Punjabi Dhol Wala. Whether it’s a wedding, party, or any
             auspicious occasion, our professional Dhol artists ensure unforgettable memories and vibrant vibes for all
             your events.</p>
           <div class="list-style1 style2">
@@ -160,7 +160,7 @@
               <img src="assets/img/icons/f-1-3.svg" alt="feature icon 3">
             </div>
             <h3 class="feature-title h5">Reliable & Punctual</h3>
-            <p class="feature-text">We respect your time and event planning. Our Dhol team always arrives on time and
+            <p class="feature-text">We respect your time and event planning. Our Dhol Wala Team always arrives on time and
               delivers as promised, every single time.</p>
           </div>
         </div>
@@ -258,7 +258,7 @@
                             <option value="" disabled hidden>Select Event</option>
                             <option value="Wedding Dhol">Wedding Dhol</option>
                             <option value="Punjabi Dhol">Punjabi Dhol</option>
-                            <option value="Party Dhol">Party Dhol</option>
+                            <option value="Party Dhol">Party Dhol Wala </option>
                             <option value="Cultural Event Dhol">Cultural Event Dhol</option>
                             <option value="Corporate Event Dhol">Corporate Event Dhol</option>
                             <option value="Birthday or Celebration Dhol">Birthday or Celebration Dhol</option>
@@ -305,10 +305,10 @@
       </div>
       <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
         <div class="col-lg-3">
-          <div class="service-style2" data-bg-src="assets/images/g-2.jpg">
+          <div class="service-style2" data-bg-src="assets/images/g-2.webp">
             <div class="overlay"></div>
             <div class="service-img">
-              <img src="assets/images/g-2.jpg" alt="service image">
+              <img src="assets/images/g-2.webp" alt="service image">
             </div>
             <div class="service-content">
               <h3 class="service-name h5"><a href="./services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -317,10 +317,10 @@
           </div>
         </div>
         <div class="col-lg-3">
-          <div class="service-style2" data-bg-src="assets/images/g-5.jpg">
+          <div class="service-style2" data-bg-src="assets/images/g-5.webp">
             <div class="overlay"></div>
             <div class="service-img">
-              <img src="assets/images/g-5.jpg" alt="service image">
+              <img src="assets/images/g-5.webp" alt="service image">
             </div>
             <div class="service-content">
               <h3 class="service-name h5"><a href="./services/wedding-dhol">Wedding Dhol</a></h3>
@@ -329,10 +329,10 @@
           </div>
         </div>
         <div class="col-lg-3">
-          <div class="service-style2" data-bg-src="assets/images/g-7.jpg">
+          <div class="service-style2" data-bg-src="assets/images/g-7.webp">
             <div class="overlay"></div>
             <div class="service-img">
-              <img src="assets/images/g-7.jpg" alt="service image">
+              <img src="assets/images/g-7.webp" alt="service image">
             </div>
             <div class="service-content">
               <h3 class="service-name h5"><a href="./services/party-dhol">Party Dhol
@@ -342,10 +342,10 @@
           </div>
         </div>
         <div class="col-lg-3">
-          <div class="service-style2" data-bg-src="assets/images/g-8.jpg">
+          <div class="service-style2" data-bg-src="assets/images/g-8.webp">
             <div class="overlay"></div>
             <div class="service-img">
-              <img src="assets/images/g-8.jpg" alt="service image">
+              <img src="assets/images/g-8.webp" alt="service image">
             </div>
             <div class="service-content">
               <h3 class="service-name h5"><a href="./services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)
@@ -434,7 +434,7 @@
               <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
             </div>
             <div class="testi-author">
-              <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+              <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
               <div class="media-body">
                 <h3 class="testi-name">Amanpreet Kaur</h3>
                 <div class="testi-degi">Bride’s Sister</div>
@@ -456,7 +456,7 @@
               <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
             </div>
             <div class="testi-author">
-              <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+              <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
               <div class="media-body">
                 <h3 class="testi-name">Rajesh Sharma</h3>
                 <div class="testi-degi">Event Planner</div>
@@ -478,7 +478,7 @@
               <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
             </div>
             <div class="testi-author">
-              <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+              <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
               <div class="media-body">
                 <h3 class="testi-name">Sukhdeep Singh</h3>
                 <div class="testi-degi">Groom</div>
@@ -500,7 +500,7 @@
               <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
             </div>
             <div class="testi-author">
-              <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+              <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
               <div class="media-body">
                 <h3 class="testi-name">Pooja Mehta</h3>
                 <div class="testi-degi">Birthday Host</div>
@@ -522,7 +522,7 @@
               <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
             </div>
             <div class="testi-author">
-              <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+              <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
               <div class="media-body">
                 <h3 class="testi-name">Nisha Arora</h3>
                 <div class="testi-degi">Corporate Event Organizer</div>
@@ -544,7 +544,7 @@
               <img src="assets/img/icons/t-1-1.svg" alt="testi icon">
             </div>
             <div class="testi-author">
-              <div class="author-img"><img src="assets/images/client.png" alt="Testimonial"></div>
+              <div class="author-img"><img src="assets/images/client.webp" alt="Testimonial"></div>
               <div class="media-body">
                 <h3 class="testi-name">Karan Bedi</h3>
                 <div class="testi-degi">DJ Partner</div>
@@ -600,94 +600,88 @@
                 <!-- repeat ↓ pattern for g‑1 → g‑13 -->
                 <!-- 1 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-1.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-1.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 1">
+                  <a href="assets/images/g-1.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-1.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 1">
                   </a>
                 </div>
 
                 <!-- 2 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-2.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-2.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 2">
+                  <a href="assets/images/g-2.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-2.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 2">
                   </a>
                 </div>
 
                 <!-- 3 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-3.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-3.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 3">
+                  <a href="assets/images/g-3.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-3.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 3">
                   </a>
                 </div>
 
                 <!-- 4 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-4.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-4.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 4">
+                  <a href="assets/images/g-4.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-4.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 4">
                   </a>
                 </div>
 
                 <!-- 5 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-5.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-5.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 5">
+                  <a href="assets/images/g-5.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-5.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 5">
                   </a>
                 </div>
 
                 <!-- 6 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-6.jpg" data-lightbox="dhol-gallery" target="_blank" target="_blank">
-                    <img src="assets/images/g-6.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 6">
+                  <a href="assets/images/g-6.webp" data-lightbox="dhol-gallery" target="_blank" target="_blank">
+                    <img src="assets/images/g-6.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 6">
                   </a>
                 </div>
 
                 <!-- 7 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-7.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-7.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 7">
+                  <a href="assets/images/g-7.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-7.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 7">
                   </a>
                 </div>
 
                 <!-- 8 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-8.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-8.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 8">
+                  <a href="assets/images/g-8.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-8.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 8">
                   </a>
                 </div>
 
                 <!-- 9 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-9.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-9.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 9">
+                  <a href="assets/images/g-9.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-9.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 9">
                   </a>
                 </div>
 
                 <!-- 10 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-10.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-10.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 10">
+                  <a href="assets/images/g-10.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-10.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 10">
                   </a>
                 </div>
 
                 <!-- 11 -->
                 <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-11.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-11.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 11">
+                  <a href="assets/images/g-11.webp" data-lightbox="dhol-gallery" target="_blank">
+                    <img src="assets/images/g-11.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 11">
                   </a>
                 </div>
 
                 <!-- 12 -->
                 <div class="col-6 col-md-4 col-lg-3">
                   <a href="assets/images/g-12.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-12.png" class="img-fluid w-100 h-100 thumb" alt="Gallery image 12">
+                    <img src="assets/images/g-12.webp" class="img-fluid w-100 h-100 thumb" alt="Gallery image 12">
                   </a>
                 </div>
-
-                <!-- 13 -->
-                <div class="col-6 col-md-4 col-lg-3">
-                  <a href="assets/images/g-13.jpg" data-lightbox="dhol-gallery" target="_blank">
-                    <img src="assets/images/g-13.jpg" class="img-fluid w-100 h-100 thumb" alt="Gallery image 13">
-                  </a>
-                </div>
+               
               </div>
             </div>
           </section>

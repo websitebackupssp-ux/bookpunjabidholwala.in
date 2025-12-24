@@ -5,21 +5,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Book punjabi Dhol wala</title>
+  <title>Dhol Service For Any Occasion in Delhi</title>
   <meta name="author" content="Book punjabi Dhol wala">
-  <meta name="description" content="Book punjabi Dhol wala">
-  <meta name="keywords" content="Book punjabi Dhol wala" />
+  <meta name="description" content="Book the best dhol service for any occasion in Delhi. Add energy to your wedding, party, or event with professional dhol players and vibrant beats.">
+  <meta name="keywords" content="Book punjabi Dhol wala, Best Dhol Service in Delhi, Dhol Wala Near Me, Book Your wedding Dhol in Delhi" />
   <meta name="robots" content="INDEX,FOLLOW">
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:type" content="article" /> 
+  <meta property="og:title" content="Dhol Service For Any Occasion in Delhi" />
+  <meta property="og:description" content="Book the best dhol service for any occasion in Delhi. Add energy to your wedding, party, or event with professional dhol players and vibrant beats." />
 
-  <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:site_name" content="Dhol Service For Any Occasion in Delhi" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/services/dhol-for-any-auspicious-occasion"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/services/dhol-for-any-auspicious-occasion"/>
 
 
   <!-- Mobile Specific Metas -->
@@ -28,15 +28,15 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Dhol for Any Auspicious Occasion</h1>
+                <h1 style="color: #f1f1f1;">Dhol Service in Delhi for Any Occasion</h1>
                 <p style="color: #f1f1f1;">
-                    Elevate your auspicious ceremonies in Defence Colony, Delhi with our versatile Dhol services. From housewarmings to naming ceremonies, our Dhol players bring traditional Punjabi rhythms to every sacred celebration.
+                    Make every celebration in Defence Colony, Delhi lively with our Dhol Service in Delhi for any occasion. From weddings and housewarmings to cultural events, our Punjabi Dhol Players deliver powerful beats and traditional vibes that make your moments truly unforgettable.
                 </p>
             </div>
             <div class="breadcumb-menu-wrap">
@@ -57,8 +57,8 @@
             <div class="col-lg-6">
                 <div class="">
                     <span class="sec-subtitle mt-20">Auspicious Entertainment</span>
-                    <h2 class="sec-title">Dhol for Auspicious Occasions</h2>
-                    <p class="service-intro">Infuse your sacred ceremonies with the uplifting beats of our professional Dhol players. Ideal for pujas, havans, housewarmings, baby naming ceremonies, and religious gatherings in Defence Colony, Delhi.</p>
+                    <h2 class="sec-title">Dhol Beats for Auspicious Occasions in Delhi</h2>
+                    <p class="service-intro">Bring joy and energy to your sacred ceremonies with the vibrant beats of our professional Dhol Players in Delhi. Perfect for pujas, havans, housewarmings, baby naming ceremonies, and other religious gatherings in Defence Colony, our Live Dhol Performance in Delhi and Punjabi Dhol Service add tradition, rhythm, and celebration to every auspicious occasion. Make your weddings, parties, and cultural events unforgettable with our skilled Wedding Dhol Service in Delhi.</p>
 
                     <div class="service-features">
                         <div class="feature-item">
@@ -82,7 +82,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="service-hero-img">
-                    <img src="../assets/images/g-11.jpg" alt="Dhol at Ceremony" class="hero-main-img">
+                    <img src="../assets/images/g-11.webp" alt="Dhol at Ceremony" class="hero-main-img">
                     <div class="floating-card">
                         <div class="card-content">
                             <h4>180+ Ceremonies</h4>
@@ -142,10 +142,10 @@
         <div class="service-gallery mb-60">
             <div class="row">
                 <div class="col-lg-6 mb-30">
-                    <img src="../assets/images/g-4.jpg" alt="Dhol for Puja" class="gallery-full-img">
+                    <img src="../assets/images/g-4.webp" alt="Dhol for Puja" class="gallery-full-img">
                 </div>
                 <div class="col-lg-6 mb-30 mt-20">
-                    <img src="../assets/images/g-3.jpg" alt="Housewarming Dhol Ceremony" class="gallery-full-img">
+                    <img src="../assets/images/g-3.webp" alt="Housewarming Dhol Ceremony" class="gallery-full-img">
                 </div>
             </div>
         </div>

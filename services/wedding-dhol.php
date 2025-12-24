@@ -5,21 +5,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Book punjabi Dhol wala</title>
+  <title>Wedding Dhol Service in Delhi  With Book Punjabi Dhol Wala</title>
   <meta name="author" content="Book punjabi Dhol wala">
-  <meta name="description" content="Book punjabi Dhol wala">
+  <meta name="description" content="Book a Punjabi Dhol Wala in Delhi for your wedding and make your celebration unforgettable with energetic beats and traditional rhythms. So Call Now For Booking">
   <meta name="keywords" content="Book punjabi Dhol wala" />
   <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Wedding Dhol Service in Delhi  With Book Punjabi Dhol Wala" />
+  <meta property="og:description" content="Book a Punjabi Dhol Wala in Delhi for your wedding and make your celebration unforgettable with energetic beats and traditional rhythms. So Call Now For Booking" />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/services/wedding-dhol" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/services/wedding-dhol"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/services/wedding-dhol"/>
 
 
   <!-- Mobile Specific Metas -->
@@ -28,16 +28,15 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Wedding Dhol Services </h1>
+                <h1 style="color: #f1f1f1;">Wedding Dhol Services in Delhi </h1>
                 <p style="color: #f1f1f1;">
-                    Make your wedding unforgettable with our premium Wedding Dhol services, Delhi. From grand baraat processions to vibrant sangeet nights, we bring authentic Punjabi beats to your special day.
-                </p>
+Make your wedding in Delhi truly unforgettable with our premium Wedding Dhol Services. From grand baraat processions to lively sangeet nights, our skilled Punjabi Dhol Players bring authentic beats, high-energy rhythms, and festive vibes that create memorable moments for you and your guests. Celebrate your special day with the perfect blend of tradition, music, and nonstop entertainment. </p>
             </div>
             <div class="breadcumb-menu-wrap">
                 <ul class="breadcumb-menu">
@@ -57,8 +56,8 @@
             <div class="col-lg-6">
                 <div class="">
                     <span class="sec-subtitle mt-20">Wedding Entertainment</span>
-                    <h2 class="sec-title">Wedding Dhol Services</h2>
-                    <p class="service-intro">Transform your wedding celebration with our professional Wedding Dhol services. From energetic baraat processions to memorable reception moments, our skilled Dhol players create the perfect soundtrack for your special day Delhi.</p>
+                    <h2 class="sec-title">Best Dhol Service On Wedding in Delhi </h2>
+                    <p class="service-intro">Transform your wedding in Delhi into a grand and unforgettable celebration with our professional Wedding Dhol Service. From energetic baraat processions and lively sangeet nights to memorable reception moments, our skilled Punjabi Dhol Players in Delhi deliver authentic beats and high-energy rhythms that keep your guests entertained. Experience the perfect blend of tradition and festivity with our Live Dhol Performance in Delhi and make every moment of your special day vibrant, joyful, and truly memorable.</p>
 
                     <div class="service-features">
                         <div class="feature-item">
@@ -82,7 +81,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="service-hero-img">
-                    <img src="../assets/images/g-11.jpg" alt="Wedding Dhol Performance" class="hero-main-img">
+                    <img src="../assets/images/g-11.webp" alt="Wedding Dhol Performance" class="hero-main-img">
                     <div class="floating-card">
                         <div class="card-content">
                             <h4>200+ Weddings</h4>
@@ -142,10 +141,10 @@
         <div class="service-gallery mb-60">
             <div class="row">
                 <div class="col-lg-6 mb-30">
-                    <img src="../assets/images/g-10.jpg" alt="Wedding Dhol Performance at Baraat" class="gallery-full-img">
+                    <img src="../assets/images/g-10.webp" alt="Wedding Dhol Performance at Baraat" class="gallery-full-img">
                 </div>
                 <div class="col-lg-6 mb-30 mt-20">
-                    <img src="../assets/images/g-7.jpg" alt="Traditional Wedding Dhol Ceremony" class="gallery-full-img">
+                    <img src="../assets/images/g-7.webp" alt="Traditional Wedding Dhol Ceremony" class="gallery-full-img">
                 </div>
             </div>
         </div>

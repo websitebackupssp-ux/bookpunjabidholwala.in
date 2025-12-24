@@ -5,21 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book punjabi Dhol wala</title>
+    <title>Dhol Player Services in New Friend Colony</title>
     <meta name="author" content="Book punjabi Dhol wala">
-    <meta name="description" content="Book punjabi Dhol wala">
+    <meta name="description" content="Best Dhol Player Services in New Friends Colony. Hire skilled Punjabi dhol players for weddings, events, and celebrations. Energetic performances guaranteed.">
     <meta name="keywords" content="Book punjabi Dhol wala" />
     <meta name="robots" content="INDEX,FOLLOW">
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="book punjabi dhol wala Band in Delhi" />
-  <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
+  <meta property="og:title" content="Dhol Player Services in New Friend Colony" />
+  <meta property="og:description" content="Best Dhol Player Services in New Friends Colony. Hire skilled Punjabi dhol players for weddings, events, and celebrations. Energetic performances guaranteed." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
     
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/location/new-friend-colony"/>
+  <link rel="canonical" href="https://bookpunjabidholwala.in/location/new-friend-colony"/>
 
 
     <!-- Mobile Specific Metas -->
@@ -28,13 +28,13 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.jpg">
+<div class="breadcumb-wrapper" data-bg-src="../assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="../assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <div class="breadcumb-title">
-                <h1 style="color: #f1f1f1;">Dhol Player Services in New Friends Colony</h1>
+                <h1 style="color: #f1f1f1;">Dhol Player Services in New Friend Colony </h1>
                 <p style="color: #f1f1f1;">Book Punjabi Dhol Wala provides professional and high-energy dhol services in New Friends Colony — perfect for weddings, parties, and festive occasions.</p>
             </div>
             <div class="breadcumb-menu-wrap">
@@ -54,17 +54,15 @@
         <div class="row gx-40 align-items-center">
             <div class="col-lg-6">
                 <div class="img-box2 text-center">
-                    <img src="../assets/images/about-us.jpg" style="height: 654px; width: 100%; object-fit: cover;" alt="about New Friends Colony">
+                    <img src="../assets/images/about-us.webp" style="height: 654px; width: 100%; object-fit: cover;" alt="about New Friends Colony">
                 </div>
             </div>
              <div class="col-lg-6 mb-30 mt-20">
-                <h2 class="sec-title">Best Dhol Wale in New Friends Colony</h2>
-                <p><strong>Book Punjabi Dhol Wala</strong> offers top-tier <strong>dhol services in New Friends Colony</strong> with skilled players who bring unmatched energy and enthusiasm. From wedding baraats to festive functions and cultural events, our beats make every celebration unforgettable.</p>
+                <h2 class="sec-title">Book Top Punjabi Dhol Wale in New Friends Colony</h2>
+                <p>For an exceptional dhol player service in New Friends Colony, Book Punjabi Dhol is your go-to choice. We provide top-quality dhol performances that bring energy and vibrancy to any occasion, from weddings to cultural events. Our talented dhol players deliver the lively beats of traditional Punjabi dhol, creating an unforgettable atmosphere for your celebration. Whether it’s a wedding, party, or community event, our dhol wale in New Friends Colony are dedicated to making your occasion truly memorable. With our wedding dhol service in New Friends Colony, your special day comes alive with energetic rhythms and joyous moments. Choose Book Punjabi Dhol to add an authentic Punjabi touch, keeping your guests entertained and dancing throughout the event.</p>
 
-                <p>Our <strong>dhol players in New Friends Colony</strong> are known for their timing, rhythm, and ability to engage any crowd. Whether it’s a traditional Punjabi dhol or fusion beats, we ensure an exciting musical experience.</p>
-
-                <h3 class="feature-title h5">Hire Dhol Players in New Friends Colony</h3>
-                <p>To <strong>hire dhol players in New Friends Colony</strong>, call +91-7042662430. We offer customized packages for weddings, receptions, and all kinds of social gatherings at competitive rates.</p>
+                <h3 class="feature-title h5">Hire Your Dhol Wale for Your Event Today</h3>
+                <p>Book Your Dhol Service Today! Hire the best Punjabi dhol artists in New Friends Colony at affordable rates. Our talented dhol players bring lively and energetic performances to weddings, festivals, and corporate events. With authentic Punjabi beats and professional coordination, we ensure every celebration is vibrant and unforgettable. Make your special occasion truly memorable by booking our expert dhol service today.</p>
             </div>
         </div>
     </div>
@@ -136,10 +134,10 @@
     </div>
     <div class="row vs-carousel" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" id="service-slider1">
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-2.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-2.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-2.jpg" alt="service image">
+            <img src="../assets/images/g-2.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/punjabi-dhol-wala">Punjabi Dhol wala</a></h3>
@@ -148,10 +146,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-5.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-5.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-5.jpg" alt="service image">
+            <img src="../assets/images/g-5.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/wedding-dhol">Wedding Dhol</a></h3>
@@ -160,10 +158,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-7.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-7.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-7.jpg" alt="service image">
+            <img src="../assets/images/g-7.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/party-dhol">Party Dhol
@@ -173,10 +171,10 @@
         </div>
       </div>
       <div class="col-lg-3">
-        <div class="service-style2" data-bg-src="../assets/images/g-8.jpg">
+        <div class="service-style2" data-bg-src="../assets/images/g-8.webp">
           <div class="overlay"></div>
           <div class="service-img">
-            <img src="../assets/images/g-8.jpg" alt="service image">
+            <img src="../assets/images/g-8.webp" alt="service image">
           </div>
           <div class="service-content">
             <h3 class="service-name h5"><a href="../services/dhol-for-any-auspicious-occasion">Dhol for (Any auspicious Ocaasion)

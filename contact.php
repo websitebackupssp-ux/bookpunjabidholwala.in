@@ -15,11 +15,11 @@
   <meta property="og:description" content="Book Punjabi Dhol Wala - Delhi's premier Dhol entertainment service. Professional performers for weddings, parties, and celebrations across Defence Colony and NCR region." />
 
   <meta property="og:site_name" content="Book Punjabi Dhol Wala" />
-  <meta property="og:url" content="https://www.bookpunjabidholwala.com" />
-  <meta property="og:image" content="https://www.bookpunjabidholwala.com/assets/images/bred.jpg" />
+  <meta property="og:url" content="https://bookpunjabidholwala.in/" />
+  <meta property="og:image" content="https://bookpunjabidholwala.in/assets/images/bred.webp" />
 
 
-  <link rel="canonical" href="https://www.bookpunjabidholwala.com/contact" />
+  <link rel="canonical" href="https://bookpunjabidholwala.in/contact" />
 
 
 
@@ -28,7 +28,7 @@
   <?php require('header.php') ?><!--==============================
     Breadcumb
     ============================== -->
-  <div class="breadcumb-wrapper" data-bg-src="assets/images/bred.jpg">
+  <div class="breadcumb-wrapper" data-bg-src="assets/images/bred.webp">
     <div class="overlay"></div>
     <img src="assets/img/shapes/b-1-1.png" alt="shape" class="shape">
     <div class="container z-index-common">
